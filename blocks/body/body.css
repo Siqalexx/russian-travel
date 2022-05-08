@@ -1,0 +1,6 @@
+.body {
+	background-color: rgba(42, 44, 47, 1);
+	max-width: 2000px;
+	min-width: 320px;
+	margin: 0 auto;
+}
