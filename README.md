@@ -20,40 +20,40 @@
 
 **Картинки**
 
-*[Поезда](./images/cover-trains.jpg)
+* [Поезда](./images/cover-trains.jpg)
 
-*[Полка](./images/lead-polka.jpg)
+* [Полка](./images/lead-polka.jpg)
 
-*[Ариса](./images/photo-grid-arisa.jpg)
+* [Ариса](./images/photo-grid-arisa.jpg)
 
-*[Тулси](./images/photo-grid-atharva-tulsi.jpg)
+* [Тулси](./images/photo-grid-atharva-tulsi.jpg)
 
-*[Байкал](./images/photo-grid-baikal.jpg)
+* [Байкал](./images/photo-grid-baikal.jpg)
 
-*[Байкал-2](./images/photo-grid-baikal-2.jpg)
+* [Байкал-2](./images/photo-grid-baikal-2.jpg)
 
-*[Эльбрус](./images/photo-grid-elbrus.jpg)
+* [Эльбрус](./images/photo-grid-elbrus.jpg)
 
-*[Эргак](./images/photo-grid-ergaki.jpg)
+* [Эргак](./images/photo-grid-ergaki.jpg)
 
-*[Камчатка](./images/photo-grid-kamchatka-1.jpg)
+* [Камчатка](./images/photo-grid-kamchatka-1.jpg)
 
-*[Камчатка-2](./images/photo-grid-kamchatka-2.jpg)
+* [Камчатка-2](./images/photo-grid-kamchatka-2.jpg)
 
-*[Кондратиев](./images/photo-grid-kondratiev.jpg)
+* [Кондратиев](./images/photo-grid-kondratiev.jpg)
 
-*[Сочи](./images/photo-grid-sochi.jpg)
+* [Сочи](./images/photo-grid-sochi.jpg)
 
-*[Поезд](./images/photo-grid-train.jpg)
+* [Поезд](./images/photo-grid-train.jpg)
 
-*[Туман](./images/photo-grid-tuman.jpg)
+* [Туман](./images/photo-grid-tuman.jpg)
 
-*[Алтай(карточка)](./images/place-altai.jpg)
+* [Алтай(карточка)](./images/place-altai.jpg)
 
-*[Карелия](./images/place-karelia.jpg)
+* [Карелия](./images/place-karelia.jpg)
 
-*[Кольский](./images/place-kolsky.jpg)
+* [Кольский](./images/place-kolsky.jpg)
 
-*[Коса](./images/place-kosa.jpg)
+* [Коса](./images/place-kosa.jpg)
 
-*[Зимний Байкал](./images/place-winter-baikal.jpg)
+* [Зимний Байкал](./images/place-winter-baikal.jpg)
