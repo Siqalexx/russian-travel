@@ -1,11 +1,13 @@
 .place__block-paragraph {
 	max-width: 484px;
 }
+
 @media screen and (max-width: 1023px) {
 	.place__block-paragraph {
 		max-width: 352px;
 	}
 }
+
 @media screen and (max-width: 767px) {
 	.place__block-paragraph {
 		max-width: 288px;
